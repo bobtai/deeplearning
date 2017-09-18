@@ -36,4 +36,4 @@ Anacoda Python 3.6
 
 ### Installation Tutorial
 
-[Installation Tutorial](https://docs.google.com/document/d/1x5yFygthf4Urn2RqODGmFI-LgttYI-8hg3m4CVROki4/edit)
+[環境建立教學](https://docs.google.com/document/d/1x5yFygthf4Urn2RqODGmFI-LgttYI-8hg3m4CVROki4/edit)
