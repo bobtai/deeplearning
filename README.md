@@ -14,7 +14,7 @@
 
 ## 環境
 
-### OS
+### Operating System
 
 Mac OS
 
