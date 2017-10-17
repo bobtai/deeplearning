@@ -2,4 +2,5 @@ Data/
 DataSet/
 MnistDataSet/
 SaveModel/
+*.pyc
 .ipynb_checkpoints
