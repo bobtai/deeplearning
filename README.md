@@ -10,13 +10,13 @@
 將訓練好的模型，以 Web Service/API 的方式提供服務：
 
 * Flask
-* Django REST framework
+* Django
 
 ## 環境
 
 ### Operating System
 
-Mac OS
+Mac OS X
 
 ### Virtual Environment
 
