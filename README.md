@@ -3,7 +3,7 @@
 使用 Keras 和 TensorFlow 建立各式深度學習模型，包含：
 
 * Mnist 手寫數字圖像辨識 - 灰階圖片分析
-	* MLP Model
+	* MLP Model, Autoencoder Model
 * Cifar10 照片圖像辨識 - 彩色圖片分析
 	* CNN Model
 * Titanic 旅客生存率分析 - 典型分類問題（X1, X2, ..., Xn -> Y）
@@ -24,7 +24,7 @@ Mac OS X
 
 ### Virtual Environment
 
-Anacoda Python 3.6
+Python 3.6
 
 ### Python Package
 
@@ -37,7 +37,3 @@ Anacoda Python 3.6
 * flask - 可快速建立一個簡單的 Web API。
 * django - 免費且開放原始碼的 Web 應用程式框架。
 * djangorestframework - 建立在 django 上的 REST API 框架。
-
-### Installation Tutorial
-
-[環境安裝教學](https://docs.google.com/document/d/1x5yFygthf4Urn2RqODGmFI-LgttYI-8hg3m4CVROki4/edit)
